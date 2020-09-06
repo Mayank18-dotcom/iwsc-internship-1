@@ -159,7 +159,7 @@ a.article, a.article:hover {
 .tname{
     width: 35rem;
     height: 3rem;
-    margin-left: 450px;
+    margin-left: 430px;
     margin-top: 40px;
     background: #C9D6FF;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
