@@ -184,7 +184,7 @@ a.article, a.article:hover {
     border: 1px grey solid;
     width: 1000px;
     margin-top: 70px;
-    margin-left: 350px;
+    margin-left: 250px;
     background-color: rgb(255, 217, 0);
     font-size: 20px;
 }
@@ -192,14 +192,14 @@ a.article, a.article:hover {
     border: 1px black solid;margin-left: 35px;width: 1420px;
 }
 .card1{
-    width: 106.65em; min-height: 47.5rem;margin-left: 0px;margin-top: -70px;
+    width: 95em; min-height: 47.5rem;margin-left: 0px;margin-top: -70px;
     background: #6190E8;
 }
 .date{
-    float: left;margin-left: 250px;
+    float: left;margin-left: 150px;
 }
 .com{
-    float: right;margin-left: 1200px;margin-top: -40px;
+    float: right;margin-left: 1100px;margin-top: -40px;
 }
 .btn{
     background-color: rgb(255, 187, 0);
@@ -212,10 +212,10 @@ a.article, a.article:hover {
     border-color: red;
 }
 .compt{
-    width: 150px;padding-top: 10px;margin-left: 650px;background-color: rgb(57, 201, 57);border-color: rgb(57, 201, 57);
+    width: 150px;padding-top: 10px;margin-left: 550px;background-color: rgb(57, 201, 57);border-color: rgb(57, 201, 57);
 }
 .stat{
-    width: 150px;padding-top: 10px;margin-left: 900px;background-color: red;margin-top: -48px;border-color: red;
+    width: 150px;padding-top: 10px;margin-left: 800px;background-color: red;margin-top: -48px;border-color: red;
 }
 .details{
     margin-left: 40px;
@@ -250,7 +250,7 @@ a.article, a.article:hover {
 
 @media (min-width: 1000px){
     .bbtn{
-        margin-left: 1200px;
+        margin-left: 1100px;
     }
 }
 

@@ -171,7 +171,7 @@ background: linear-gradient(to right, #ff9068, #ff4b1f); /* W3C, IE 10+/ Edge, F
     text-align: center;
 }
 .card1{
-    width: 105.5em; min-height: 47.5rem;margin-left: 0px;margin-top: -70px;
+    width: 95em; min-height: 47.5rem;margin-left: 0px;margin-top: -70px;
     background: #6190E8;
 }
 .hname{
@@ -258,7 +258,7 @@ background: linear-gradient(to right, #ff9068, #ff4b1f); /* W3C, IE 10+/ Edge, F
 }
 @media (min-width: 1000px){
     .bbtn{
-        margin-left: 1200px;
+        margin-left: 1100px;
     }
     
 }

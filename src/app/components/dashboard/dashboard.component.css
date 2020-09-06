@@ -159,7 +159,7 @@ a.article, a.article:hover {
 .tname{
     width: 35rem;
     height: 3rem;
-    margin-left: 500px;
+    margin-left: 450px;
     margin-top: 40px;
     background: #6190E8;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #A7BFE8, #6190E8);  /* Chrome 10-25, Safari 5.1-6 */
@@ -172,7 +172,7 @@ a.article, a.article:hover {
     text-align: center;
 }
 .card1{
-    width: 106.65em; min-height: 47.5rem;margin-left: 0px;margin-top: -70px;
+    width: 95em; min-height: 47.5rem;margin-left: 0px;margin-top: -70px;
     background: #6190E8;
 }
 .hname{
@@ -205,6 +205,7 @@ a.article, a.article:hover {
     background-color: rgb(255, 187, 0);
     border-color: rgb(255, 187, 0);
     font-size: 18px;
+    margin-left: -60px;
 }
 .btn1{
     margin-left: 50px;

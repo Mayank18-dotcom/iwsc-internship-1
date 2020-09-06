@@ -170,7 +170,7 @@ a.article, a.article:hover {
     border: 1px grey solid;
     width: 700px;
     margin-top: 70px;
-    margin-left: 370px;
+    margin-left: 300px;
     background-color: rgb(255, 217, 0);
 }
 
@@ -183,7 +183,7 @@ a.article, a.article:hover {
     border: 1px grey solid;
     width: 1000px;
     margin-top: 70px;
-    margin-left: 200px;
+    margin-left: 150px;
     background-color: rgb(255, 217, 0);
     font-size: 20px;
 }
@@ -191,7 +191,7 @@ a.article, a.article:hover {
     border: 1px black solid;margin-left: 35px;width: 1420px;
 }
 .card1{
-    width: 89rem; min-height: 42rem;margin-left: 130px;margin-top: -40px;
+    width: 80rem; min-height: 42rem;margin-left: 100px;margin-top: -40px;
     background: #C9D6FF;
 }
 
@@ -230,6 +230,7 @@ a.article, a.article:hover {
     background-color: rgb(255, 187, 0);
     border-color: rgb(255, 187, 0);
     font-size: 18px;
+    margin-left: -100px;
 }
 .btn1{
     margin-left: 50px;

@@ -133,7 +133,7 @@ a.animated-button.thar-three:before {
 .btn{
 
   position: relative;
-  left: 180px;
+  left: 100px;
 }
 .banner-text{
   text-align: center;
@@ -148,8 +148,8 @@ a.animated-button.thar-three:before {
   align-items: center;
   text-align: center;
   position: absolute;
-  left: 380px;
-  top: 50px;
+  left: 300px;
+  top: 100px;
 }
 .banner-text ul{
   height: 50px;
@@ -244,7 +244,7 @@ a.animated-button.thar-three:before {
       opacity: 0;
     }
 }
-@media all and (max-width: 900px) {
+@media (max-width: 900px) {
   html,body{
     padding: 0;
     margin: 0;

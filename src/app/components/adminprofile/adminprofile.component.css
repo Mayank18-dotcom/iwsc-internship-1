@@ -192,7 +192,7 @@ a.article, a.article:hover {
     border: 1px black solid;margin-left: 35px;width: 1420px;
 }
 .card1{
-    width: 89rem; min-height: 42rem;margin-left: 130px;margin-top: -40px;
+    width: 89rem; min-height: 42rem;margin-left: 50px;margin-top: -40px;
     background: #C9D6FF;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */

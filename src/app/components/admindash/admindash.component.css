@@ -159,7 +159,7 @@ a.article, a.article:hover {
 .tname{
     width: 35rem;
     height: 3rem;
-    margin-left: 500px;
+    margin-left: 450px;
     margin-top: 40px;
     background: #C9D6FF;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
@@ -173,7 +173,7 @@ a.article, a.article:hover {
     text-align: center;
 }
 .card1{
-    width: 106.65em; min-height: 47.5rem;margin-left: 0px;margin-top: -70px;
+    width: 95em; min-height: 47.5rem;margin-left: 0px;margin-top: -70px;
     background: #6190E8;
 }
 .hname{
@@ -244,7 +244,7 @@ a.article, a.article:hover {
 }
 @media (min-width: 1000px){
     .bbtn{
-        margin-left: 1200px;
+        margin-left: 1100px;
     }
 }
 
